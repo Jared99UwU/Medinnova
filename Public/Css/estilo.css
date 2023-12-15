@@ -1,0 +1,15 @@
+body {
+    background-color: gray;
+}
+
+/*.fondoDelete {
+    background-color: #F4A4A1;
+}
+*/
+
+/* Estilos para limitar el tamaño de las imágenes en el CRUD */
+.img-crud {
+    max-width: 10px; 
+    max-height: 10px; 
+   
+}
